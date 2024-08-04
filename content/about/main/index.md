@@ -1,17 +1,17 @@
 ---
 ## Configure page content in wide column
-title: "Why apéro?" # leave blank to exclude
+title: "About Me" # leave blank to exclude
 number_featured: 1 # pulling from mainSections in config.toml
 use_featured: false # if false, use most recent by date
 number_categories: 3 # set to zero to exclude
 show_intro: true
 intro: |
-  Apéro is a unique kind of casual get-together in French culture, when you gather with friends and get to know each other better over some apéritifs, snacks, and anything in between. A good apéro is one where you'd happily spend a few hours just hanging out.
+  I am Steffany. I was born on Sunday noon, February 11, 2001. I was raised in a small province in the Philippines, surrounded with nature and exposed to typhoons. I am a small girl with a height of 4'11 but will grow to 5'0 by the end of the year (claiming it). I am a licensed chemist and currently working in a sugar manufacturing company. 
   
-  I hope this theme helps you create your own virtual apéro. A place where you and your site's visitors enjoy spending time, and one that helps folks get to know you better. 
+  With a lot of free time from my work, I am learning R programming and video editing. Both of these tasks are completely new to me so I hope to grow myself in this field. Growing up, my passions include reading novels, cooking, studying, gardening, and playing with my cats. I also developed a fascination on quotes and sayings which helped me get by and put any situation in a better perspective. They say I have a boring life but it's the life that is perfect for me. I enjoy staying at home on Fridays than going out for a drink. I would rather spend my time reading than having a hangover. When I am not nerding out, I helped in our family business as a dishwasher, cashier, and a waitress.  
 show_outro: true
 outro: |
-  <i class="fas fa-glass-cheers pr2"></i>Sincere thanks to [Maëlle Salmon](https://masalmon.eu/) for her help naming this Hugo theme!
+  <i class="fas fa-glass-cheers pr2"></i>Let's talk via my socials. 
 ---
 
 ** index doesn't contain a body, just front matter above.
