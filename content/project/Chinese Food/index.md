@@ -23,7 +23,7 @@ tags:
 title: Sunday Food
 ---
 
-![Cooking logo](172847308347.png)
+![Cooking logo](1728477308347.png) 
 
 ## Recipes I already tried during my Sunday off. 
 
@@ -111,4 +111,24 @@ title: Sunday Food
 4. mix vegetables if you have. Bell pepper, garlic, sibuyas, carrots
 5. Combined the cooled pickling solution to the cooled papaya w/ vegetables
 6. Keep atchara for 3 days before eating. 
+
+
+### Chili oil
+
+#### Ingredients
+- chili
+- garlic
+- 2 pcs. laurel leaves
+- onion
+- ginger
+- 2 pieces laurel leaves
+- 1/2 tbsp peppercorns
+- 1/2 tbsp salt
+
+
+#### Instructions
+1. Combine chili flakes, oil, sugar, pepper, paprika, and a little bit of oil
+2. In low heat, cook ginger and garlic, onion and chilis. Take out when brown and crispy.
+3. Pour hot oil one tbsp at a time to pepper mix.
+4. Add the crispy aromatics when cooled. Add spoonful of sesame oil for flavor
 
