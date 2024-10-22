@@ -4,9 +4,9 @@ categories:
 - Cooking
 - R
 - successful recipes
-date: "2024-10-09"
+date: "2024-10-22"
 draft: false
-excerpt: All my new found recipes that are healthy and yummy. 
+excerpt: From YouTube recipes tested to taste good. 
 layout: single
 links:
 - icon: door-open
@@ -20,115 +20,109 @@ links:
 subtitle: cook w/ me
 tags:
 - hugo-site
-title: Sunday Food
+title: Filipino Dishes
 ---
 
-![Cooking logo](1728477308347.png) 
+![Greetings](Steamed caked.png) 
 
-## Recipes I already tried during my Sunday off. 
+## Dishes best paired with rice
 
 ---
 
-### Dumplings
+### Adobo
 
 #### Ingredients
-- Ground pork *250g
+- Chicken or any meat *250g
 - minced garlic
--minced ginger 
+- soy sauce
+- oyster sauce
+- peppercorn
+- laurel leaves
+- salt
+- sugar
 
 ##### Vegetable:
-- Squash
-- Onion leaves
-- carrots
-- cabbage
+- Potatoes
+- Bell pepper
 
-##### Seasonings:
-- 1 tbsp. Oyster sauce
-- 1 tbsp soysauce'
-- 1 tbsp fish sauce
-- 1 tsp pepper
-- 1/4 cube knorr
-- 1 tsp sugar
-- 1 tsp salt
-- 3 tbsp water
-- 1 tbsp sesame oil
-- 2 tbsp oil
 
 #### Instructions
-1. Combine the seasonings
-2. Add to Pork with ginger and garlic
-3. Handmix with vegetable
-4. Fry a little to taste
-5. Wrap
+1. Combine the sauce
+2. Pour into the meat
+3. Marinate overnight
+4. Fry the meat
+5. Add water and marinade for the sauce
 
-### Tuna Shawarma
+### Sweet and Sour Pork
 
-#### Ingredients
-- canned tuna
-- various vegetables
+#### Marinade
+- ½ tsp salt
+- ¼ tsp pepper
+- 1 tsp garlic powder or crushed garlic
+- 1 tsp  calamansi into the chicken
 
-##### Wrap:
-- 1 1/2 cup flour (3rd class)
-- 2 tsp sugar
-- 2 tsp. baking powder
-- pinch of salt
-- 2 tbsp oil
-- 1 cup warm water
+Marinate for 30 mins.
+
+##### Batter:
+- 1 egg
+- 1 tsp baking soda
+- ¼ cup AP flour
+- ½ cup cornstarch (sifted)
+- ¼ cup water
+
+Refrigerate.
+
 ##### Sauce
-- 220 ml mayonnaise 
-- 1 tbsp vinegar
-- 1 tbsp sugar
-- 2 tbsp finely chopped garlic
-- pinch of salt
-- 1/4 cup water
+- 1 small carrot optional
+- red and green bell pepper
+- 1 onion and garlic
+- 4 slices ginger, garlic
+- 2 tbsp vinegar
+- 1 ½ cup catsup, 
+- cornstarch in enough water to make a slurry
+- 2 tbsp sugar, pineapple tidbits, salt and pepper to taste.
 
 #### Instructions
-1. Combine wrap ingredients. Rest for 20 min.
-2. Flatten into wraps and cook in low heat
-3. Saute canned tune in onion and garlic
-4. Chop vegetables and combine sauce
-5. Wrap
+1. Combine cold batter into cold chicken
+2. Coat each chicken with starch, shake excess starch.
+3. Deep fry for 5-6 mins. If it’s cooked, it will float. 
+4. For sauce: 
+5. Stir fry vegetables, green and red bell pepper, onion just enough that it is coated with oil 
+6. Fry garlic, ginger, and vinegar
+7. If vinegar boils, add ketchup and all ingredients except pineapple. 
+8. Boil the solution and add pineapple afterwards
+9. Double fry the chicken to get crispy. 
+10. Coat with sauce.
 
-### Atsara
+
+### Pork Tocino
 
 #### Ingredients
-- Papaya for 1 1/2 kilo
-- various vegetables
-
-##### Pickling solution:
-- 1 cup suka
-- 3/4 cup sugar
-- 15 grams ginger
-- 2 pieces laurel leaves
-- 1/2 tbsp peppercorns
-- 1/2 tbsp salt
-
+- 1 sunpride tocino pack
+- 1 kilo pork
+- 1 Zesto apple juice
+- ½ cup sugar
+- 5-6 calamansi
 
 #### Instructions
-1. Sprinkle papaya with salt to let water out
-2. combine pickling solution and boil it. Do not combine when it's boiling already
-3. Blanch squeezed papaya for 10 seconds
-4. mix vegetables if you have. Bell pepper, garlic, sibuyas, carrots
-5. Combined the cooled pickling solution to the cooled papaya w/ vegetables
-6. Keep atchara for 3 days before eating. 
+1. Combine ingredients for mainade
+2. Pour into the meat. 
+3. Marinate overnight or for days
 
 
-### Chili oil
+### Tempura
 
 #### Ingredients
-- chili
-- garlic
-- 2 pcs. laurel leaves
-- onion
-- ginger
-- 2 pieces laurel leaves
-- 1/2 tbsp peppercorns
-- 1/2 tbsp salt
-
+- 30 g AP Flour + 40 g cornstarch
+- 60 mL water (or until thick)
+- 1 egg
+- Pepper
+- Garlic, chili, onion powder (or just breading mix)
+- Shrimp
 
 #### Instructions
-1. Combine chili flakes, oil, sugar, pepper, paprika, and a little bit of oil
-2. In low heat, cook ginger and garlic, onion and chilis. Take out when brown and crispy.
-3. Pour hot oil one tbsp at a time to pepper mix.
-4. Add the crispy aromatics when cooled. Add spoonful of sesame oil for flavor
+1. Mix the batter and refrigerate
+2. Devein the shrimp
+3. Coat it with cold batter
+4. Coat with Bread crumbs
 
